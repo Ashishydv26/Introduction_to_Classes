@@ -1,0 +1,4 @@
+Data hiding is a technique of hiding internal object details, i.e., data members. It is an object-oriented programming technique. 
+Data hiding ensures, or we can say guarantees to restrict the data access to class members.
+It maintains data integrity.
+Data hiding means hiding the internal data within the class to prevent its direct access from outside the class.
